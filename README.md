@@ -15,5 +15,5 @@ Assignments are divided into weeks
  
 - **Data to keep me active and collaborative throughout the project**
 - He lastly urged me to follow the OHM calendar for cohort calls and was direct to me that incase of any question,I should also write an email direct to OHM.
-- We closed happily,and my journey to Open Hardware began.
+- We closed happily,and my journey to Open Hardware Maker began.
 ![](Images/IMG_20220413_003547_694.jpg)
