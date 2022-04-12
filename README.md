@@ -7,6 +7,7 @@ Assignments are divided into weeks
 - introduction between myself and my mentor Mr Solomon Tash from Kenya
 - he was so welcoming and encouraging,shared his experience in open hardware making and I have got a lot to learn from him
 - he also took me briefly through the OHM curriculum
+- introduced my project to him
 - I shared all my challenges and among them are:
  
 - **Materials for prototyping**
