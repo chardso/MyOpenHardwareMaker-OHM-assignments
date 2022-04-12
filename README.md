@@ -1,6 +1,8 @@
 # MyOpenHardwareMaker[OHM]assignments
 ![](Images/ohm-logo-solo.svg)
-My OHM assignments are divided into weeks
+
+My Open Hardware Maker
+Assignments are divided into weeks
 # week 1
 - introduction between myself and my mentor Mr Solomon Tash from Kenya
 - he was so welcoming and encouraging,shared his experience in open hardware making and I have got a lot to learn from him
