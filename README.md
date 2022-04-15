@@ -20,3 +20,6 @@ Assignments are divided into weeks
 - We closed happily,and my journey to Open Hardware Maker began.
 ![](Images/IMG_20220413_003547_694.jpg)
 # Assignment one 
+Q.1.what does working open mean?
+Q.2.why would you like to open your project?
+Q.3.how do you envision your project especially benefiting from more community contribution and participation?
