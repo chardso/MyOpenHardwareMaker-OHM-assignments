@@ -19,3 +19,4 @@ Assignments are divided into weeks
 - encouraged me to read OHM curriculum to guide me through my project,of which I had already raed and understood what working open means in hardware projects.
 - We closed happily,and my journey to Open Hardware Maker began.
 ![](Images/IMG_20220413_003547_694.jpg)
+# Assignment one 
