@@ -11,5 +11,5 @@
 - working open gets you closer to your users and their needs.
 **By inviting abroad community to contribute to your project,you can integrate audience into the development process to help ensure that your creating a tool, experience or are source that meets their needs.**,Future users can be involved in decision making about project design,direction and features,as well as contributing to project work.
 # A.Q.3
-- working open can allow your project to achieve it's maximum impact,
-**When you're engaging contributors and target users from day one , your final launch to a built-in audience and  be more likely to be supported,championed and sustained by contributors with along history with the project**.**when you share your process and make on going work openly available on the web,others can built on your work,adapt your process or part of your project for a novel use**.**your project can have a positive,transformative effect far beyond what your able to imagine**.
+- working open can allow my project to achieve it's maximum impact,
+**When I am engaging contributors and target users from day one , my final launch to a built-in audience can be more likely to be supported,championed and sustained by contributors with along history with the project**.**when I share my process and make on going work openly available on the web,others can built on my work,adapt my process or part of my project for a novel use**.** my project can have a positive,transformative effect far beyond what I am able to imagine**.
